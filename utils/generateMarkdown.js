@@ -32,6 +32,7 @@ function renderLicenseLink(license) {
   }
 }
 // TODO: Create a function to generate markdown for README
+//template for Markdown file
 function generateMarkdown(answers) {
   return `# ${answers.projectName}
 ${renderLicenseBadge(answers.license)}
@@ -43,7 +44,7 @@ ${answers.description}
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#Testing)
+* [Tests](#Tests)
 * [Questions](#questions)
 
 ## Installation
@@ -62,10 +63,9 @@ ${answers.contribution}
 ${answers.test}
 
 ## Questions
-#if you have any questions please contact me at ${answers.email}
-
-
+#If you have any questions please contact me by sending a main to ${answers.email} or visit my github profile github.com/${answers.username}/
 `;
 }
 
+//export the generateMarkdown function
 export default generateMarkdown;
