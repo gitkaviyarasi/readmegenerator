@@ -1,32 +1,30 @@
-# readme generator
-
-
+# restarut for the greek
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+https://www.gnu.org/licenses/gpl-3.0
 ## Description
-this is genreate a reade me with the inputs from the user
+to feed 
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#Testing)
+* [Tests](#Tests)
 * [Questions](#questions)
 
 ## Installation
-ji pp 
+npm i
 
 ## Usage
-decc hr ;kpdkclmks nsncjsbcj mnsjdbjsbcj absjbfsj jsbdjbsj
+thjsjojdos
 
 ## License
-None
+GPL 3.0
 
 ## Contributing
-contribyte the repos nad he] me make the foded better and running and olmlsml nskndkfnsknkf
+jgajgcjavcaj
 
 ## Tests
 npm test
 
 ## Questions
-#if you have any questions please contact me at 
-
-
+#If you have any questions please contact me by sending a main to kavi@gmail.com or visit my github profile github.com/gitkaviyarasi/
