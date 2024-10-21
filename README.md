@@ -1,11 +1,13 @@
 # ReadMe Generator
 A simple command-line application built with Node.js that generates a professional README.md file for a project. The generator prompts the user with questions about their project using the inquirer package and creates a well-structured README file based on the responses.
 ## Table of Contents 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Questions](#questions)
+- [ReadMe Generator](#readme-generator)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
 
 ## Installation
 1. Clone the repository:
@@ -17,7 +19,7 @@ A simple command-line application built with Node.js that generates a profession
 
 ## Usage
 To generate a README file, run the following command:
-node index.js
+node index.js. Check the Generated file under the folder utils
 
 ## License
 MIT
