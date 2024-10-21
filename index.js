@@ -58,7 +58,7 @@ inquirer.prompt([
 ]). // get the answers from the user and generate the markdown file
 then((answers) => {
     const readMe = generateMarkdown(answers);
-    fs.writeFile('README.md',readMe,(err) =>{
+    fs.writeFile('./utils/README.md',readMe,(err) =>{
         if (err) {
             console.error(err);
         }
