@@ -4,12 +4,15 @@ https://opensource.org/licenses/MIT
 ## Description
 to generate areadme using nodejs and inquirer package 
 ## Table of Contents 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#Tests)
-* [Questions](#questions)
+- [Readme Generator](#readme-generator)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Installation
 npm i

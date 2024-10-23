@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
     case 'MIT':
       return '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
     case 'Apache 2.0':
-      return '![License : Apache2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)';
+      return '![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)';
     case 'GPL 3.0':
       return '![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)';
     case 'BSD3':
@@ -44,7 +44,7 @@ ${answers.description}
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#Tests)
+* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
@@ -63,7 +63,7 @@ ${answers.contribution}
 ${answers.test}
 
 ## Questions
-#If you have any questions please contact me by sending a main to ${answers.email} or visit my github profile github.com/${answers.username}/
+#If you have any questions please contact me by sending a mail to ${answers.email} or visit my github profile github.com/${answers.username}/
 `;
 }
 
