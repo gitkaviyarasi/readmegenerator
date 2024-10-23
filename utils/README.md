@@ -1,27 +1,30 @@
-# appoloo greek tavern
+# Readme Generator
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 https://opensource.org/licenses/MIT
 ## Description
-a greek restatuarant 
+to generate areadme using nodejs and inquirer package 
 ## Table of Contents 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+- [Readme Generator](#readme-generator)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Installation
 npm i
 
 ## Usage
-
+to run the app run the file using node index.js in terminal
 
 ## License
 MIT
 
 ## Contributing
-
+clone the repo and create a branch and work on the enhancements
 
 ## Tests
 npm test
